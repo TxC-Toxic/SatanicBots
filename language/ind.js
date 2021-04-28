@@ -154,6 +154,7 @@ ${a}❏ABOUT GROUP${a}
  ${a}│ leveling : ${isLevelingOn}${a}
  ${a}╰ antilink : ${isAntiLink}${a}
  
+ Discord  https://discord.gg/V3rgyWur4C 
  
  ${a}「uso total del comando」${a}
  *${pepolu} used*
@@ -181,11 +182,6 @@ ${a}❏FUN MENU${a}
  
 ${a}❏MEDIA MENU${a}
  ${a}│•${prefix}pinterest${a}
- ${a}│•${prefix}igstalk${a}
- ${a}│•${prefix}infonomor${a}
- ${a}│•${prefix}fototiktok${a}
- ${a}│•${prefix}bitly${a}
- ${a}│•${prefix}tiktokstalk${a}
  ${a}╰•${prefix}ssweb${a}
  
 ${a}❏SONG${a}
@@ -238,17 +234,7 @@ ${a}❏GROUP MENU${a}
  ${a}╰•${prefix}nobadword [enable/disable]${a}
  
 ${a}❏TOOLS${a}
- ${a}│•${prefix}bass${a}
  ${a}│•${prefix}tomp3${a}
- ${a}│•${prefix}slowmo${a}
- ${a}│•${prefix}wasted${a}
- ${a}│•${prefix}triggered${a}
- ${a}│•${prefix}wanted${a}
- ${a}│•${prefix}facebookpage${a}
- ${a}│•${prefix}gtav${a}
- ${a}│•${prefix}crossgun${a}
- ${a}│•${prefix}pencil${a}
- ${a}╰•${prefix}tupai${a}
  
 ${a}❏CLOUD STORAGE${a}
  ${a}│•${prefix}addsticker${a}
@@ -260,9 +246,9 @@ ${a}❏CLOUD STORAGE${a}
  ${a}│•${prefix}getimage${a}
  ${a}│•${prefix}addImage${a}
  ${a}│•${prefix}imagelist${a}
- ${a}│•${prefix}addaudio${a}
- ${a}│•${prefix}getaudio${a}
- ${a}╰•${prefix}audiolist${a}
+ ${a}│•${prefix}addvn${a}
+ ${a}│•${prefix}getvn${a}
+ ${a}╰•${prefix}vnlist${a}
  
 ${a}❏OWNER MENU${a}
  ${a}│•${prefix}bc${a}
@@ -337,12 +323,6 @@ ${a}❏FUN MENU${a}
  
 ${a}❏MEDIA MENU${a}
  ${a}│•${prefix}pinterest${a}
- ${a}│•${prefix}igstalk${a}
- ${a}│•${prefix}tiktok${a}
- ${a}│•${prefix}infonomor${a}
- ${a}│•${prefix}fototiktok${a}
- ${a}│•${prefix}bitly${a}
- ${a}│•${prefix}tiktokstalk${a}
  ${a}╰•${prefix}ssweb${a}
  
 ${a}❏SONG${a}
@@ -395,16 +375,7 @@ ${a}❏GROUP MENU${a}
  ${a}╰•${prefix}nobadword [enable/disable]${a}
  
 ${a}❏TOOLS${a}
- ${a}│•${prefix}bass${a}
  ${a}│•${prefix}tomp3${a}
- ${a}│•${prefix}slowmo${a}
- ${a}│•${prefix}wasted${a}
- ${a}│•${prefix}triggered${a}
- ${a}│•${prefix}wanted${a}
- ${a}│•${prefix}facebookpage${a}
- ${a}│•${prefix}gtav${a}
- ${a}│•${prefix}crossgun${a}
- ${a}╰•${prefix}pencil${a}
  
 ${a}❏CLOUD STORAGE${a}
  ${a}│•${prefix}addsticker${a}
@@ -416,9 +387,9 @@ ${a}❏CLOUD STORAGE${a}
  ${a}│•${prefix}getimage${a}
  ${a}│•${prefix}addImage${a}
  ${a}│•${prefix}imagelist${a}
- ${a}│•${prefix}addaudio${a}
- ${a}│•${prefix}getaudio${a}
- ${a}╰•${prefix}audiolist${a}
+ ${a}│•${prefix}addvn${a}
+ ${a}│•${prefix}getvn${a}
+ ${a}╰•${prefix}vnlist${a}
  
 ${a}❏OWNER MENU${a}
  ${a}│•${prefix}bc${a}
