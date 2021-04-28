@@ -134,6 +134,8 @@ ${a}❏ ABOUT USER${a}
  ${a}│ Role : ${role}${a}
  ${a}╰ User register : ${_registered.length}${a}
  
+ Discord  https://discord.gg/V3rgyWur4C 
+
 ${a}❏ABOUT BOT${a}
  ${a}│ Name : ${client.user.name}${a}
  ${a}│ browser : ${client.browserDescription[1]}${a}
@@ -153,8 +155,6 @@ ${a}❏ABOUT GROUP${a}
  ${a}│ antibadword : ${isBadWord}${a}
  ${a}│ leveling : ${isLevelingOn}${a}
  ${a}╰ antilink : ${isAntiLink}${a}
- 
- Discord  https://discord.gg/V3rgyWur4C 
  
  ${a}「uso total del comando」${a}
  *${pepolu} used*
